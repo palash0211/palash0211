@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palash T</h1>
 <h3 align="center">A Full Stack Dev with 7+ Work Experience</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palash0211&label=Profile%20views&color=0e75b6&style=flat" alt="palash0211" /> </p>
+
 ## 💫 About Me:
 🔭 Currently Working On<br>I'm building a White Label SaaS Web App that aims to deliver customizable solutions for businesses. Excited about creating a seamless and scalable platform!<br><br>🤝 Looking For Help With<br>I'm diving deep into Generative AI (GenAI) and Retrieval-Augmented Generation (RAG) integrations to enhance the app's capabilities. If you have experience or insights in these areas, let's collaborate!<br><br>🌱 Currently Learning<br>I'm in the process of learning about GenAI and RAG technologies. Excited to explore how they can bring more intelligent and dynamic features to my web app!<br><br>💬 Feel Free to Ask Me About<br>I'm always happy to chat about anything tech, SaaS, and AI-related. Whether it's the challenges I'm facing with my app or exploring new possibilities with RAG, let's connect!<br><br>⚡ Fun Fact<br>The code is like a broken GPS—takes everyone on a journey, but no one knows where it'll end up!
 
